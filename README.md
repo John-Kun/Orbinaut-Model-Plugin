@@ -7,3 +7,5 @@ This is a plugin for being able to have 3D Models on Orbinaut Framework(or in GM
 TheSnidr without his model system this won't be possible.
 
 MicG for fixing the model glitch.
+
+Sega and Sonic Mania Devs for the big ring model and because of sonic lol.
