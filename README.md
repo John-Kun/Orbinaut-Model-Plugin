@@ -8,4 +8,4 @@ TheSnidr without his model system this won't be possible.
 
 MicG for fixing the model glitch.
 
-Sega and Sonic Mania Devs for the big ring model and because of sonic lol.
+Sonic Mania Devs for the SpecialRing Model.
