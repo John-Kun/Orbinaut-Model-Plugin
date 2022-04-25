@@ -6,6 +6,6 @@ after the "Framework ,", and after that you can use this.
 
 if you gonna use this, please crediting these guys who make this to work.
 
-Sindre Hauge Larsen
+TheSnidr
 John-Kun
 MicG
