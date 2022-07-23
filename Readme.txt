@@ -13,7 +13,7 @@ Credits
 
 Developer Notes
     Hello! Thanks for Downloading this!
-    WARNING Normal Draw event break the palette shader, and let it blank Draw End instead
+    WARNING Normal Draw event break the palette shader, let it blank and use Draw End instead
     if you gonna use this, please credit us who made this.
     
     TheSnidr
